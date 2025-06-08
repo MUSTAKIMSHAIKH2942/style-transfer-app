@@ -1,10 +1,9 @@
 Excellent request — this is very professional thinking!
 👉 I will now give you a **complete README.md** template that includes:
 
-✅ **What you learned**
-✅ **What technologies you used**
-✅ **How it works**
-✅ **How you would present it in an interview** (answers ready)
+✅ **What you learned**                                                                                                                                                                                         
+✅ **What technologies you used**                                                                                                                                                                                
+✅ **How it works**                                                                                                                                                                                           
 ✅ **Conclusion** → why this project is valuable on your resume / GitHub
 
 ---
