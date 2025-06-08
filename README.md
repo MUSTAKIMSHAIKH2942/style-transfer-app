@@ -59,10 +59,10 @@ This is a complete end-to-end **Machine Learning + Web Application project**, wh
 
 ## Project Structure
 
-```
+```bash
 
 style-transfer-app/
-├── app.py                # Flask web server
+├── app.py                   # Flask web server                                                                                                                                      
 ├── style\_transfer.py     # Core ML logic for style transfer
 ├── static/
 │   ├── uploads/          # Uploaded content and style images
